@@ -329,7 +329,7 @@ Possible future enhancements include:
 
 ## Supervisor
 
-- Dr. Ibrahim Sadik
+- Dr. Ibrahim Sadek
 - Eng. Veronicaa William
 
 ---
